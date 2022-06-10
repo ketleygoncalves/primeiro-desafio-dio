@@ -6,6 +6,6 @@ Criando o primeiro repositório, minha ideia para esse desafio é criar um arqui
 
 Espero que minhas anotações também possam ser utilizadas por outras pessoas, por isso irei manter esse atualizado.
 
-![#contratodecompromisso](https://web.dio.me/users/ketleymg1?tab=achievements)
+[#contratodecompromisso](https://web.dio.me/users/ketleymg1?tab=achievements)
 
 ### A vida é feita de **CORAGEM**
